@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Serbia",
+		"leaderName": "Aleksandar Vucic",
+		"adjective": ["Serbian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": "There is no room for you as mighty Serbia will dominate the region. Prepare for the worst.",
+		"attacked": "In 1999, we were weak. But now, we have made quite the army. This will mark the end of your days.",
+		"defeated": "We were defeated by our ingnorance and bloodthirsty ways. I just want to help the Serbian people.",
+		"introduction": "Zdravo, I am Aleksander Vucic, the ruler of the Serbian people.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can't I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [198,54,60],
+		"innerColor": [12,64,118],
+		"uniqueName": "Extremely Nationalist",
+		"uniques": ["[+33]% Strength <vs [Land] units> <in [Open terrain] tiles>", "<if this city has at least [1] specialists> <vs [air units] units>"],
+		"cities": ["Belgrade","Novi Sad","Nis","Kragujevac","Leskovac","Subotica","Krusevac","Kraljevo","Pancevo","Zrenjanin",
+			"Sabac","Cacak","Smederevo","Novi Pazar","Valjevo","Sombor","Vranje","Sremska Mitrovica","Loznica","Uzice",
+			"Dinogetia","Tibiscum","Ulpianum","Noviodunum","Troesmis","Porolissum","Tiasum","Carsidava","Sacidava","Dokidava",
+			"Pozarevac","Jagodina","Stara Pazova","Zajecar","Kikinda","Pirot","Backa Palanka","Ruma",
+			"Paracin","Vrsac","Bor","Prokuplje",]
+	},
+]
