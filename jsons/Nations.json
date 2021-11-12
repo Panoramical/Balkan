@@ -24,8 +24,119 @@
 		"uniques": ["[+33]% Strength <vs [Land] units> <in [Open terrain] tiles>", "<if this city has at least [1] specialists> <vs [air units] units>"],
 		"cities": ["Belgrade","Novi Sad","Nis","Kragujevac","Leskovac","Subotica","Krusevac","Kraljevo","Pancevo","Zrenjanin",
 			"Sabac","Cacak","Smederevo","Novi Pazar","Valjevo","Sombor","Vranje","Sremska Mitrovica","Loznica","Uzice",
-			"Dinogetia","Tibiscum","Ulpianum","Noviodunum","Troesmis","Porolissum","Tiasum","Carsidava","Sacidava","Dokidava",
 			"Pozarevac","Jagodina","Stara Pazova","Zajecar","Kikinda","Pirot","Backa Palanka","Ruma",
 			"Paracin","Vrsac","Bor","Prokuplje",]
+	},
+	{
+		"name": "Greece",
+		"leaderName": "Katerina Sakellaropoulou",
+		"adjective": ["Greek"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can't I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [13,94,175],
+		"innerColor": [255,255,255],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Athens","Thessaloniki","Patras","Larissa","Heraklion","Volos","Ioannina","Trikala","Agrinio","Chalcis",
+			"Serres","Alexandroupoli","Xanthi","Katerini","Kalamata","Kavala","Chania","Lamia","Komotini","Rhodes",
+			"Drama","Veria","Kozani","Karditsa","Rethymno","Ptolemaida","Tripoli","Corinth","Giannitsa","Mytilene",
+			"Chios","Corfu","Sparta","Oia",]
+	},
+	{
+		"name": "Romania",
+		"leaderName": "Klaus Iohannis",
+		"adjective": ["Romanian"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can't I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [0,43,127],
+		"innerColor": [252,209,22],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Bucharest","Cluj-Napoca","Timisoara","Iasi","Constanta","Craiova","Brasov","Galati","Ploiesti","Oradea",
+			"Braila","Arad","Pitesti","Sibiu","Bacau","Targu Mures","Baia Mare","Buzau","Botosani","Satu Mare",
+			"Ramnicu Valcea","Drobeta-Turnu Severin","Suceava","Piatra Neamt","Targu Jiu","Targoviste","Focsani","Bistrita","Tulcea","Resita",
+			"Slatina","Calarasi","Alba Iulia","Giurgiu",]
+	},
+	{
+		"name": "Bulgaria",
+		"leaderName": "Rumen Radev",
+		"adjective": ["Bulgarian"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can't I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [208,28,31],
+		"innerColor": [255,255,255],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Sofia","Plovdiv","Varna","Burgas","Ruse","Stara Zagora","Pleven","Sliven","Dobrich","Shumen",
+			"Pernik","Haskovo","Yambol","Pazardzhik","Blagoevgrad","Veliko Tarnovo","Vratsa","Gabrovo","Asenovgrad","Vidin",
+			"Kazanlak","Kyustendil","Kardzhali","Montana","Dmitrovgrad","Targovishte","Lovech","Silistra","Dupnitsa","Svishtov",
+			"Razgrad","Gorna Oryahovitsa","Smolyan","Sunny Beach",]
+	},
+	{
+		"name": "Turkey",
+		"leaderName": "Recep Tayyip Erdogan",
+		"adjective": ["Turkish"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can't I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [227,10,23],
+		"innerColor": [255,255,255],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Ankara","Istanbul","Izmir","Bursa","Adana","Gaziantep","Konya","Antalya","Kayseri","Mersin",
+			"Eskisehir","Diyarbakir","Samsun","Denizli","Sanliurfa","Adapazari","Malatya","Kahramanmaras","Erzurum","Van",
+			"Batman","Elazig","Izmit","Manisa","Sivas","Gebze","Balikesir","Tarsus","Kutahya","Trabzon",
+			"Corum","Corlu","Adiyaman","Osmaniye",]
 	},
 ]
