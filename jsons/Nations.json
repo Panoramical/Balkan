@@ -14,7 +14,7 @@
 		"introduction": "Zdravo, I am Aleksander Vucic, the ruler of the Serbian people.",
 
 		"neutralHello": "Hello.",
-		"hateHello": "Can't I just take a break?!",
+		"hateHello": "Can I just take a break?!",
 
 		"tradeRequest": "Let's have a trade. What do you say?",
 
@@ -42,7 +42,7 @@
 		"introduction": " ",
 
 		"neutralHello": "Hello.",
-		"hateHello": "Can't I just take a break?!",
+		"hateHello": "Can I just take a break?!",
 
 		"tradeRequest": "Let's have a trade. What do you say?",
 
@@ -70,7 +70,7 @@
 		"introduction": " ",
 
 		"neutralHello": "Hello.",
-		"hateHello": "Can't I just take a break?!",
+		"hateHello": "Can I just take a break?!",
 
 		"tradeRequest": "Let's have a trade. What do you say?",
 
@@ -98,7 +98,7 @@
 		"introduction": " ",
 
 		"neutralHello": "Hello.",
-		"hateHello": "Can't I just take a break?!",
+		"hateHello": "Can I just take a break?!",
 
 		"tradeRequest": "Let's have a trade. What do you say?",
 
@@ -126,7 +126,7 @@
 		"introduction": " ",
 
 		"neutralHello": "Hello.",
-		"hateHello": "Can't I just take a break?!",
+		"hateHello": "Can I just take a break?!",
 
 		"tradeRequest": "Let's have a trade. What do you say?",
 
@@ -138,5 +138,260 @@
 			"Eskisehir","Diyarbakir","Samsun","Denizli","Sanliurfa","Adapazari","Malatya","Kahramanmaras","Erzurum","Van",
 			"Batman","Elazig","Izmit","Manisa","Sivas","Gebze","Balikesir","Tarsus","Kutahya","Trabzon",
 			"Corum","Corlu","Adiyaman","Osmaniye",]
+	},
+	{
+		"name": "Croatia",
+		"leaderName": "Zoran Milanovic",
+		"adjective": ["Croatian"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [255,174,201],
+		"innerColor": [255,255,255],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Zagreb","Split","Rijeka","Osijek","Zadar","Pula","Slavonski Brod","Karlovac","Varazdin","Sibenik",
+			"Sisak","Vinkovci","Velika Gorica","Dubrovnik","Bjelovar","Vukovar","Koprivnica","Solin","Zapresic","Pozega",
+			"Dakovo","Samobor","Petrinja","Metkovic","Cakovec","Virovitica","Kutina","Makarska","Rovinj","Zupanja",
+			"Nova Gradiska","Gospic","Krapina","Pazin",]
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"leaderName": "Zoran Milanovic",
+		"adjective": ["Bosnian"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [0,20,137],
+		"innerColor": [255,205,0],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Sarajevo","Banja Luka","Tuzla","Zenica","Bijeljina","Mostar","Prijedor","Brcko","Doboj","Ilidza",
+			"Cazin","Zvornik","Zivinice","Bihac","Travnik","Gradiska","Gracanica","Lukavac","Tesanj","Sanski Most",
+			"Velika Kladusa","Visoko","Srebrenik","Gradacac","Teslic","Kakanj","Zavidovici","Prnjavor","Laktasi","Visegrad",
+			"Kalesija","Rogatica","Devetak","Kiseljak",]
+	},
+	{
+		"name": "Albania",
+		"leaderName": "Ilir Meta",
+		"adjective": ["Albanian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [255,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Tirana","Durres","Vlore","Elbasan","Shkoder","Kamez","Fier","Korce","Berat","Lushnje",
+			"Pogradec","Kavaje","Gjirokaster","Fushe-Kruje","Sarande","Lac","Leskovik","Kukes","Sukth","Patos",
+			"Lezhe","Mamurras","Peshkopi","Kucove","Kruje","Vore","Burrel","Rreshen","Milot","Divjake",
+			"Gramsh","Bulqize","Vau i Dejes","Puke",]
+	},
+	{
+		"name": "Slovenia",
+		"leaderName": "Borut Pahor",
+		"adjective": ["Slovenian"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [0,92,230],
+		"innerColor": [255,255,255],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Ljubljana","Maribor","Kranj","Celje","Koper","Velenje","Novo Mesto","Ptuj","Kamnik","Trbovlje",
+			"Jesenice","Domzale","Nova Gorica","Izola","Skofja Loka","Murska Sobota","Logatec","Postojna","Vrhnika","Slovenska Bistrica",]
+	},
+	{
+		"name": "North Macedonia",
+		"leaderName": "Stevo Pendarovski",
+		"adjective": ["Macedonian"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [206,32,40],
+		"innerColor": [249,214,22],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Skopje","Kumanovo","Bitola","Tetovo","Gostivar","Prilep","Struga","Kicevo","Ohrid","Veles",
+			"Strumica","Stip","Kavadarci","Kocani","Bogovinje","Radovis","Lipkovo","Vrapciste","Zelino","Gevgelija",]
+	},
+	{
+		"name": "Montenegro",
+		"leaderName": "Mila Dukanovic",
+		"adjective": ["Montenegrin"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": "I least I can go back to sleep",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [196,3,8],
+		"innerColor": [211,174,59],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Podgorica","Niksic","Herceg Novi","Pljevlja","Bar","Bijelo Polje","Cetinje","Budva","Kotor","Berane",
+			"Ulcinj","Tivat","Rozaje",]
+	},
+	{
+		"name": "Kosovo",
+		"leaderName": "Vjosa Osmani",
+		"adjective": ["Kosovar"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [36,74,165],
+		"innerColor": [208,166,80],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Pristina","Prizren","Ferizaj","Peja","Gjakova","Podujevo","Mitrovica","Gjilan","Vucitrn","Drenas",
+			"Suva Reka","Orahovac","Malisevo","Lipljan","Skenderaj","Vitina","Decan","Istok","Klina","Kosovo Polje",]
+	},
+	{
+		"name": "Hungary",
+		"leaderName": "Janos Ader",
+		"adjective": ["Hungarian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Can I just take a break?!",
+
+		"tradeRequest": "Let's have a trade. What do you say?",
+
+		"outerColor": [71,112,80],
+		"innerColor": [206,41,57],
+		"uniqueName": " ",
+		"uniques": [" "],
+		"cities": ["Budapest","Debrecen","Szeged","Miskolc","Pecs","Gyor","Nyiregyhaza","Kecskemet","Szekesfehervar","Szombathely",
+			"Szolnok","Tatabanya","Sopron","Kaposvar","Veszprem","Bekescsaba","Zalaegerszeg","Eger","Nagykanizsa",
+			"Dunaujvaros","Cegled","Mosonmagyarovar","Baja","Salgotarjan","Ozd","Szekszard","Hajduboszormeny","Papa","Nagykoros",
+			"Tata","Komlo","Gyal","Mako","Mohacs",]
+	},
+
+	//City-States
+
+	{
+		"name": "Cyprus",
+		"adjective": ["Cypriot"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It seems that all hope is gone",
+		"outerColor": [255,255,255],
+		"innerColor": [213,120,0],
+		"cities": ["Nicosia","Limassol","Strovolos","Larnaca","Famagusta"],
+	},
+	{
+		"name": "Slovakia",
+		"adjective": ["Slovakian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It seems that all hope is gone",
+		"outerColor": [238,22,32],
+		"innerColor": [255,255,255],
+		"cities": ["Bratislava","Kosice","Presov","Zilina","Banska Bystrica"],
+	},
+	{
+		"name": "Moldova",
+		"adjective": ["Moldovan"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It seems that all hope is gone",
+		"outerColor": [238,22,32],
+		"innerColor": [255,255,255],
+		"cities": ["Chisinau","Tiraspol","Balti","Bender","Ribnita"],
 	},
 ]
